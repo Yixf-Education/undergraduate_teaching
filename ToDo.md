@@ -12,7 +12,10 @@
 ## 教材翻译
 
 - [ ] Algorithms for Next-Generation Sequencing
-- [ ] Bioinformatics Data Skills
+- [ ] Bioinformatics Data Skills Reproducible and Robust Research with Open Source Tools
+- [ ] Python for the Life Sciences A Gentle Introduction to Python for Life Scientists
+- [ ] Bioinformatics Algorithms Design and Implementation in Python
+- [ ] Bioinformatics Algorithms An Active Learning Approach
 
 
 
